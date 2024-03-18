@@ -1,0 +1,2 @@
+fastcore==1.5.29
+ghapi==1.0.4
