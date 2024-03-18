@@ -6,9 +6,9 @@ permissions:
 on:
   push:
     branches:
-      - main
+      - gh-pages
   schedule:
-    - cron: "25 23 * * *"
+    - cron: "30 23 * * *"
 
 jobs:
   build:
