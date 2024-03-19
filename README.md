@@ -18,3 +18,4 @@ How it works on GitHub Actions via the `.github/workflows/build.yml` file:
 - Install python libraries
 - Run `python code.py`
 - Commit changed `registry.json` file to the default branch (`gh-pages`). This updated file is then available at <https://getwilds.org/registry/registry.json>
+- Note that the automatic pages-build-deployment action that triggers on a gh-pages branch was turned off in this repo and instead build and deployment is based on the `build.yml` file alone. Go to Settings > Pages > Build and Deployment in the repo to see where this is set
