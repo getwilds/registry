@@ -3,7 +3,7 @@ WILDS Registry
 
 Registry of WILDS repositories.
 
-The registry is in: [registry.json][registry.json]
+The registry is in: [registry.json](registry.json)
 
 How it works locally for testing purposes:
 
