@@ -35,3 +35,4 @@ class LEncoder(json.JSONEncoder):
 
 with open('registry.json', 'w') as file:
 	json.dump(data, file, cls=LEncoder)
+	file.write('\n')
