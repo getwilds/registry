@@ -34,5 +34,5 @@ class LEncoder(json.JSONEncoder):
 	   return json.JSONEncoder.default(self, obj)
 
 with open('registry.json', 'w') as file:
-	json.dump(data, file, cls=LEncoder)
+	json.dump(data, file, cls=LEncoder, indent=2)
 	file.write('\n')
