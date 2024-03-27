@@ -34,30 +34,6 @@
       ]
     },
     {
-      "name": "tg-wdl-multicloud",
-      "private": true,
-      "fork": false,
-      "description": "Test staging inputs from multiple clouds",
-      "html_url": "https://github.com/getwilds/tg-wdl-multicloud",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": []
-    },
-    {
-      "name": "tg-wdl-UWLM-Oncoplex",
-      "private": true,
-      "fork": false,
-      "description": null,
-      "html_url": "https://github.com/getwilds/tg-wdl-UWLM-Oncoplex",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": []
-    },
-    {
       "name": "ww-sra-star",
       "private": false,
       "fork": false,
@@ -142,18 +118,6 @@
           "src": "https://codecov.io/gh/getwilds/sixtyfour/graph/badge.svg?token=BMER9MWIDN"
         }
       ]
-    },
-    {
-      "name": "trailhead",
-      "private": true,
-      "fork": false,
-      "description": "A repository where we collect requests for new tools, workflows or support materials to be added to the WILDS.",
-      "html_url": "https://github.com/getwilds/trailhead",
-      "topics": [
-        "requests",
-        "wishlist"
-      ],
-      "badges": []
     },
     {
       "name": "guide",
@@ -361,15 +325,6 @@
       "badges": []
     },
     {
-      "name": "scp-drawio",
-      "private": true,
-      "fork": false,
-      "description": null,
-      "html_url": "https://github.com/getwilds/scp-drawio",
-      "topics": [],
-      "badges": []
-    },
-    {
       "name": "wdl-101",
       "private": false,
       "fork": false,
@@ -382,24 +337,6 @@
       "badges": []
     },
     {
-      "name": "scorcher",
-      "private": true,
-      "fork": true,
-      "description": null,
-      "html_url": "https://github.com/getwilds/scorcher",
-      "topics": [],
-      "badges": []
-    },
-    {
-      "name": "clinical-data-guidebook",
-      "private": true,
-      "fork": false,
-      "description": "A guidebook for clinical data at Fred Hutchinson Cancer Center.",
-      "html_url": "https://github.com/getwilds/clinical-data-guidebook",
-      "topics": [],
-      "badges": []
-    },
-    {
       "name": "registry",
       "private": false,
       "fork": false,
@@ -409,5 +346,5 @@
       "badges": []
     }
   ],
-  "updated": "2024-03-27T17:46:20.612860+00:00"
+  "updated": "2024-03-27T17:48:58.660702+00:00"
 }
