@@ -8,8 +8,16 @@ The registry is in: [registry.json](registry.json)
 How it works locally for testing purposes:
 
 ```
+# create a virtualenv and source it
+python -m venv .venv
+source .venv/bin/activate
+
+# generate registry
 pip install -r requirements.txt
 python code.py
+
+# deactivate virtualenv
+deactivate
 ```
 
 How it works on GitHub Actions via the `.github/workflows/build.yml` file:
