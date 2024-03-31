@@ -232,6 +232,11 @@
           "href": "https://github.com/getwilds/proofr/actions/workflows/R-CMD-check.yaml",
           "alt": "R-CMD-check",
           "src": "https://github.com/getwilds/proofr/actions/workflows/R-CMD-check.yaml/badge.svg"
+        },
+        {
+          "href": "https://codecov.io/gh/getwilds/proofr",
+          "alt": "codecov",
+          "src": "https://codecov.io/gh/getwilds/proofr/graph/badge.svg?token=G5QFLURUZ4"
         }
       ]
     },
@@ -346,5 +351,5 @@
       "badges": []
     }
   ],
-  "updated": "2024-03-30T23:34:09.791062+00:00"
+  "updated": "2024-03-31T23:34:46.057607+00:00"
 }
