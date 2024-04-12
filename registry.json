@@ -349,7 +349,22 @@
       "html_url": "https://github.com/getwilds/registry",
       "topics": [],
       "badges": []
+    },
+    {
+      "name": "ww-vc-trio",
+      "private": false,
+      "fork": false,
+      "description": "Variant calling WDL workflow using a trio of variant callers and analyzing consensus among them",
+      "html_url": "https://github.com/getwilds/ww-vc-trio",
+      "topics": [],
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     }
   ],
-  "updated": "2024-04-11T23:34:57.428411+00:00"
+  "updated": "2024-04-12T23:34:24.426283+00:00"
 }
