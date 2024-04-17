@@ -209,6 +209,11 @@
           "href": "https://github.com/getwilds/cancerprof/actions/workflows/R-CMD-check.yaml",
           "alt": "R-CMD-check",
           "src": "https://github.com/getwilds/cancerprof/actions/workflows/R-CMD-check.yaml/badge.svg"
+        },
+        {
+          "href": "https://github.com/ropensci/software-review/issues/637",
+          "alt": "Status at rOpenSci Software Peer Review",
+          "src": "https://badges.ropensci.org/637_status.svg"
         }
       ]
     },
@@ -366,5 +371,5 @@
       ]
     }
   ],
-  "updated": "2024-04-16T23:34:38.841592+00:00"
+  "updated": "2024-04-17T23:34:48.140631+00:00"
 }
