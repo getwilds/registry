@@ -369,7 +369,16 @@
           "src": "https://getwilds.org/badges/badges/experimental.svg"
         }
       ]
+    },
+    {
+      "name": "proof",
+      "private": false,
+      "fork": false,
+      "description": null,
+      "html_url": "https://github.com/getwilds/proof",
+      "topics": [],
+      "badges": []
     }
   ],
-  "updated": "2024-05-16T23:34:20.457846+00:00"
+  "updated": "2024-05-28T17:54:50.148792+00:00"
 }
