@@ -38,6 +38,11 @@ jobs:
     - name: Build registry
       run: python code.py
 
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: .
   deploy:
     needs: build
     environment:
