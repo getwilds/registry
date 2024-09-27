@@ -39,7 +39,7 @@ jobs:
       run: python code.py
 
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@v4.6.6
+      uses: JamesIves/github-pages-deploy-action@v4.5.0
       with:
         branch: gh-pages
         folder: .
