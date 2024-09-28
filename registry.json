@@ -396,7 +396,33 @@
       "html_url": "https://github.com/getwilds/rules",
       "topics": [],
       "badges": []
+    },
+    {
+      "name": "rls",
+      "private": false,
+      "fork": false,
+      "description": "Row Level Security",
+      "html_url": "https://github.com/getwilds/rls",
+      "topics": [
+        "postgresql",
+        "redshift",
+        "row-level-security",
+        "rstats",
+        "wilds-r"
+      ],
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#concept",
+          "alt": "Project Status: Concept \u2013 Not useable, no support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/concept.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/rls/actions/workflows/R-check.yml",
+          "alt": "R-check",
+          "src": "https://github.com/getwilds/rls/actions/workflows/R-check.yml/badge.svg"
+        }
+      ]
     }
   ],
-  "updated": "2024-09-26T23:35:13.518105+00:00"
+  "updated": "2024-09-28T14:30:27.236494+00:00"
 }
