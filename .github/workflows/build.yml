@@ -43,7 +43,7 @@ jobs:
         if: steps.build.outcome == 'success'
         uses: peter-evans/repository-dispatch@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           repository: getwilds/getwilds.github.io
           event-type: registry-updated
   deploy:
