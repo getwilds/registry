@@ -401,7 +401,7 @@
       "name": "rls",
       "private": false,
       "fork": false,
-      "description": "Row Level Security",
+      "description": "Row Level Security Functions for PostgreSQL and Redshift",
       "html_url": "https://github.com/getwilds/rls",
       "topics": [
         "postgresql",
@@ -424,5 +424,5 @@
       ]
     }
   ],
-  "updated": "2024-10-01T23:34:43.072045+00:00"
+  "updated": "2024-10-02T23:34:52.268093+00:00"
 }
