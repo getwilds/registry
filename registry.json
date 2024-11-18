@@ -191,6 +191,15 @@
       "badges": []
     },
     {
+      "name": "dasl-quarto",
+      "private": false,
+      "fork": false,
+      "description": "Quarto template for FHCC DaSL HTML report",
+      "html_url": "https://github.com/getwilds/dasl-quarto",
+      "topics": [],
+      "badges": []
+    },
+    {
       "name": "cancerprof",
       "private": false,
       "fork": false,
@@ -424,5 +433,5 @@
       ]
     }
   ],
-  "updated": "2024-11-17T23:35:14.700083+00:00"
+  "updated": "2024-11-18T23:35:03.257149+00:00"
 }
