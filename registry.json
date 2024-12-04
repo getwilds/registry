@@ -73,7 +73,7 @@
       "name": "ww-star-deseq2",
       "private": false,
       "fork": false,
-      "description": "A demo repo to help folks run Star on RNA seq data and do DEseq2",
+      "description": "Relatively straightforward WDL workflow that executes STAR+DESeq2 on RNAseq data",
       "html_url": "https://github.com/getwilds/ww-star-deseq2",
       "topics": [
         "wdl-workflow",
@@ -442,5 +442,5 @@
       ]
     }
   ],
-  "updated": "2024-12-03T23:35:08.654944+00:00"
+  "updated": "2024-12-04T23:35:13.667181+00:00"
 }
