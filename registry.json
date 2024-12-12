@@ -440,7 +440,22 @@
           "src": "https://github.com/getwilds/rls/actions/workflows/R-check.yml/badge.svg"
         }
       ]
+    },
+    {
+      "name": "ww-sourmash",
+      "private": false,
+      "fork": false,
+      "description": "Self-contained WDL workflow that uses Sourmash to perform similarity searches between sequence files.",
+      "html_url": "https://github.com/getwilds/ww-sourmash",
+      "topics": [],
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     }
   ],
-  "updated": "2024-12-11T23:35:09.623961+00:00"
+  "updated": "2024-12-12T23:35:28.530264+00:00"
 }
