@@ -323,11 +323,11 @@
       ]
     },
     {
-      "name": "ww-test-workflows",
+      "name": "ww-demo-workflows",
       "private": false,
       "fork": true,
       "description": "A repo containing workflows written in WDL to test using the Fred Hutch Cromwell configuration.  ",
-      "html_url": "https://github.com/getwilds/ww-test-workflows",
+      "html_url": "https://github.com/getwilds/ww-demo-workflows",
       "topics": [
         "wdl-workflow",
         "wilds-wdl"
@@ -457,5 +457,5 @@
       ]
     }
   ],
-  "updated": "2024-12-15T23:34:49.983011+00:00"
+  "updated": "2024-12-16T23:35:22.459609+00:00"
 }
