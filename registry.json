@@ -79,7 +79,13 @@
         "wdl-workflow",
         "wilds-wdl"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     },
     {
       "name": "sixtyfour",
@@ -95,7 +101,23 @@
         "rstats",
         "wilds-r"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#prototype",
+          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/prototype.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/sixtyfour/actions/workflows/R-CMD-check.yaml",
+          "alt": "R-CMD-check",
+          "src": "https://github.com/getwilds/sixtyfour/actions/workflows/R-CMD-check.yaml/badge.svg"
+        },
+        {
+          "href": "https://codecov.io/gh/getwilds/sixtyfour",
+          "alt": "codecov",
+          "src": "https://codecov.io/gh/getwilds/sixtyfour/graph/badge.svg?token=BMER9MWIDN"
+        }
+      ]
     },
     {
       "name": "guide",
@@ -151,7 +173,13 @@
       "topics": [
         "utilities"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.github.io/badges/#prototype",
+          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
+          "src": "https://getwilds.github.io/badges/badges/prototype.svg"
+        }
+      ]
     },
     {
       "name": "getwilds.github.io",
@@ -180,7 +208,23 @@
       "topics": [
         "wilds-r"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.github.io/badges/#concept",
+          "alt": "Project Status: Concept \u2013 Not useable, no support, not open to feedback, unstable API.",
+          "src": "https://getwilds.github.io/badges/badges/concept.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/cancerprof/actions/workflows/R-CMD-check.yaml",
+          "alt": "R-CMD-check",
+          "src": "https://github.com/getwilds/cancerprof/actions/workflows/R-CMD-check.yaml/badge.svg"
+        },
+        {
+          "href": "https://github.com/ropensci/software-review/issues/637",
+          "alt": "Status at rOpenSci Software Peer Review",
+          "src": "https://badges.ropensci.org/637_status.svg"
+        }
+      ]
     },
     {
       "name": "proofr",
@@ -192,7 +236,23 @@
         "r-package",
         "wilds-r"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.github.io/badges/#concept",
+          "alt": "Project Status: Concept \u2013 Not useable, no support, not open to feedback, unstable API.",
+          "src": "https://getwilds.github.io/badges/badges/concept.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/proofr/actions/workflows/R-CMD-check.yaml",
+          "alt": "R-CMD-check",
+          "src": "https://github.com/getwilds/proofr/actions/workflows/R-CMD-check.yaml/badge.svg"
+        },
+        {
+          "href": "https://codecov.io/gh/getwilds/proofr",
+          "alt": "codecov",
+          "src": "https://codecov.io/gh/getwilds/proofr/graph/badge.svg?token=G5QFLURUZ4"
+        }
+      ]
     },
     {
       "name": "ww-fastq-to-cram",
@@ -204,7 +264,13 @@
         "wdl-workflow",
         "wilds-wdl"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     },
     {
       "name": "shinyauthr",
@@ -225,7 +291,18 @@
         "utilities",
         "wilds-r"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.github.io/badges/#concept",
+          "alt": "Project Status: Concept \u2013 Not useable, no support, not open to feedback, unstable API.",
+          "src": "https://getwilds.github.io/badges/badges/concept.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/bs/actions/workflows/R-CMD-check.yaml",
+          "alt": "R-CMD-check",
+          "src": "https://github.com/getwilds/bs/actions/workflows/R-CMD-check.yaml/badge.svg"
+        }
+      ]
     },
     {
       "name": "wilds-docker-library",
@@ -237,7 +314,13 @@
         "containers",
         "wilds-docker"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#prototype",
+          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
+          "src": "https://getwilds.github.io/badges/badges/prototype.svg"
+        }
+      ]
     },
     {
       "name": "ww-demo-workflows",
@@ -288,7 +371,13 @@
       "description": "Variant calling WDL workflow using a trio of variant callers and analyzing consensus among them",
       "html_url": "https://github.com/getwilds/ww-vc-trio",
       "topics": [],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     },
     {
       "name": "proof",
@@ -339,7 +428,18 @@
         "rstats",
         "wilds-r"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#concept",
+          "alt": "Project Status: Concept \u2013 Not useable, no support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/concept.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/rls/actions/workflows/R-check.yml",
+          "alt": "R-check",
+          "src": "https://github.com/getwilds/rls/actions/workflows/R-check.yml/badge.svg"
+        }
+      ]
     },
     {
       "name": "ww-sourmash",
@@ -348,8 +448,14 @@
       "description": "Self-contained WDL workflow that uses Sourmash to perform similarity searches between sequence files.",
       "html_url": "https://github.com/getwilds/ww-sourmash",
       "topics": [],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     }
   ],
-  "updated": "2025-01-07T20:49:04.835763+00:00"
+  "updated": "2025-01-07T21:06:31.002117+00:00"
 }
