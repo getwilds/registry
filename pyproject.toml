@@ -1,0 +1,12 @@
+[project]
+name = "registry"
+version = "0.1.0"
+description = "WILDS package registry"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4==4.12.3",
+    "fastcore==1.5.29",
+    "ghapi==1.0.4",
+    "markdown==3.6",
+]

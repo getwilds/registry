@@ -8,13 +8,16 @@ The registry is in: [registry.json](registry.json)
 How it works locally for testing purposes:
 
 ```
+# Install uv if you don't have it
+# https://docs.astral.sh/uv/getting-started/installation/
+
 # create a virtualenv and source it
-python -m venv .venv
+uv venv
 source .venv/bin/activate
 
 # generate registry
-pip install -r requirements.txt
-python code.py
+uv sync
+uv run python code.py
 
 # deactivate virtualenv
 deactivate

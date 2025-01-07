@@ -1,4 +1,0 @@
-fastcore==1.5.29
-ghapi==1.0.4
-beautifulsoup4==4.12.3
-markdown==3.6
