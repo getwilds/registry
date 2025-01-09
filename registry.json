@@ -455,7 +455,22 @@
           "src": "https://getwilds.org/badges/badges/experimental.svg"
         }
       ]
+    },
+    {
+      "name": "ww-shapemapper",
+      "private": false,
+      "fork": false,
+      "description": "Self-contained WDL workflow that uses Shapemapper",
+      "html_url": "https://github.com/getwilds/ww-shapemapper",
+      "topics": [],
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#experimental",
+          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/experimental.svg"
+        }
+      ]
     }
   ],
-  "updated": "2025-01-08T23:34:34.588266+00:00"
+  "updated": "2025-01-09T23:34:39.390510+00:00"
 }
