@@ -404,7 +404,18 @@
       "description": "\ud83d\uddfa A Map Room",
       "html_url": "https://github.com/getwilds/oncarto",
       "topics": [],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.org/badges/#prototype",
+          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/prototype.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/oncarto/actions/workflows/R-CMD-check.yaml",
+          "alt": "R-CMD-check",
+          "src": "https://github.com/getwilds/oncarto/actions/workflows/R-CMD-check.yaml/badge.svg"
+        }
+      ]
     },
     {
       "name": "rules",
@@ -472,5 +483,5 @@
       ]
     }
   ],
-  "updated": "2025-01-16T23:34:33.233634+00:00"
+  "updated": "2025-01-17T23:34:45.400974+00:00"
 }
