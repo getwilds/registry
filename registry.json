@@ -370,7 +370,10 @@
       "fork": false,
       "description": "Variant calling WDL workflow using a trio of variant callers and analyzing consensus among them",
       "html_url": "https://github.com/getwilds/ww-vc-trio",
-      "topics": [],
+      "topics": [
+        "wdl-workflow",
+        "wilds-wdl"
+      ],
       "badges": [
         {
           "href": "https://getwilds.org/badges/#experimental",
@@ -458,7 +461,10 @@
       "fork": false,
       "description": "Self-contained WDL workflow that uses Sourmash to perform similarity searches between sequence files.",
       "html_url": "https://github.com/getwilds/ww-sourmash",
-      "topics": [],
+      "topics": [
+        "wdl-workflow",
+        "wilds-wdl"
+      ],
       "badges": [
         {
           "href": "https://getwilds.org/badges/#experimental",
@@ -473,7 +479,10 @@
       "fork": false,
       "description": "Self-contained WDL workflow that uses Shapemapper",
       "html_url": "https://github.com/getwilds/ww-shapemapper",
-      "topics": [],
+      "topics": [
+        "wdl-workflow",
+        "wilds-wdl"
+      ],
       "badges": [
         {
           "href": "https://getwilds.org/badges/#experimental",
@@ -483,5 +492,5 @@
       ]
     }
   ],
-  "updated": "2025-02-23T23:34:38.719661+00:00"
+  "updated": "2025-02-24T22:45:03.576124+00:00"
 }
