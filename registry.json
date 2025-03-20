@@ -91,7 +91,7 @@
       "name": "sixtyfour",
       "private": false,
       "fork": false,
-      "description": "\ud83d\ude9a CEO, entrepreneur",
+      "description": "\ud83d\ude9a AWS for Data Scientists",
       "html_url": "https://github.com/getwilds/sixtyfour",
       "topics": [
         "aws",
@@ -113,9 +113,9 @@
           "src": "https://github.com/getwilds/sixtyfour/actions/workflows/R-CMD-check.yaml/badge.svg"
         },
         {
-          "href": "https://codecov.io/gh/getwilds/sixtyfour",
+          "href": "https://app.codecov.io/gh/getwilds/sixtyfour",
           "alt": "codecov",
-          "src": "https://codecov.io/gh/getwilds/sixtyfour/graph/badge.svg?token=BMER9MWIDN"
+          "src": "https://codecov.io/gh/getwilds/sixtyfour/branch/main/graph/badge.svg"
         }
       ]
     },
@@ -492,5 +492,5 @@
       ]
     }
   ],
-  "updated": "2025-03-19T23:35:18.675353+00:00"
+  "updated": "2025-03-20T23:34:55.317874+00:00"
 }
