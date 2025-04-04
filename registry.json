@@ -308,7 +308,7 @@
       "name": "wilds-docker-library",
       "private": false,
       "fork": false,
-      "description": "Central location for all Docker containers associated with WILDS workflows",
+      "description": "Collection of Docker images for use in WILDS bioinformatics workflows",
       "html_url": "https://github.com/getwilds/wilds-docker-library",
       "topics": [
         "containers",
@@ -492,5 +492,5 @@
       ]
     }
   ],
-  "updated": "2025-04-03T23:35:58.913498+00:00"
+  "updated": "2025-04-04T23:35:00.438816+00:00"
 }
