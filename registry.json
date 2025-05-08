@@ -84,6 +84,11 @@
           "href": "https://getwilds.org/badges/#experimental",
           "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
           "src": "https://getwilds.org/badges/badges/experimental.svg"
+        },
+        {
+          "href": "https://opensource.org/licenses/MIT",
+          "alt": "License: MIT",
+          "src": "https://img.shields.io/badge/License-MIT-yellow.svg"
         }
       ]
     },
@@ -497,5 +502,5 @@
       ]
     }
   ],
-  "updated": "2025-05-07T23:36:13.518920+00:00"
+  "updated": "2025-05-08T23:35:53.262996+00:00"
 }
