@@ -73,7 +73,7 @@
       "name": "ww-star-deseq2",
       "private": false,
       "fork": false,
-      "description": "Relatively straightforward WDL workflow that executes STAR+DESeq2 on RNAseq data",
+      "description": "WILDS WDL workflow that executes STAR+DESeq2 on RNAseq data",
       "html_url": "https://github.com/getwilds/ww-star-deseq2",
       "topics": [
         "wdl-workflow",
@@ -502,5 +502,5 @@
       ]
     }
   ],
-  "updated": "2025-05-11T23:34:58.118846+00:00"
+  "updated": "2025-05-12T23:35:12.961314+00:00"
 }
