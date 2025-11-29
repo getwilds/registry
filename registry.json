@@ -484,23 +484,14 @@
       ]
     },
     {
-      "name": "ww-salmon",
+      "name": "ww-saturation",
       "private": false,
       "fork": false,
-      "description": "Self-contained WDL workflow that uses the Salmon RNA-seq computational tool.",
-      "html_url": "https://github.com/getwilds/ww-salmon",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": [
-        {
-          "href": "https://getwilds.org/badges/#experimental",
-          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/experimental.svg"
-        }
-      ]
+      "description": "Self-contained WDL workflow that performs saturation mutagenesis analysis",
+      "html_url": "https://github.com/getwilds/ww-saturation",
+      "topics": [],
+      "badges": []
     }
   ],
-  "updated": "2025-11-28T23:34:57.785666+00:00"
+  "updated": "2025-11-29T23:35:37.565701+00:00"
 }
