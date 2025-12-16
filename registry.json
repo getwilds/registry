@@ -52,29 +52,6 @@
       ]
     },
     {
-      "name": "ww-star-deseq2",
-      "private": false,
-      "fork": false,
-      "description": "WILDS WDL workflow that executes STAR+DESeq2 on RNAseq data",
-      "html_url": "https://github.com/getwilds/ww-star-deseq2",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": [
-        {
-          "href": "https://getwilds.org/badges/#experimental",
-          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/experimental.svg"
-        },
-        {
-          "href": "https://opensource.org/licenses/MIT",
-          "alt": "License: MIT",
-          "src": "https://img.shields.io/badge/License-MIT-yellow.svg"
-        }
-      ]
-    },
-    {
       "name": "sixtyfour",
       "private": false,
       "fork": false,
@@ -238,24 +215,6 @@
           "href": "https://codecov.io/gh/getwilds/proofr",
           "alt": "codecov",
           "src": "https://codecov.io/gh/getwilds/proofr/graph/badge.svg?token=G5QFLURUZ4"
-        }
-      ]
-    },
-    {
-      "name": "ww-fastq-to-cram",
-      "private": false,
-      "fork": false,
-      "description": "Self-contained WDL workflow that converts a WGS FASTQ file into an unmapped CRAM file",
-      "html_url": "https://github.com/getwilds/ww-fastq-to-cram",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": [
-        {
-          "href": "https://getwilds.org/badges/#experimental",
-          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/experimental.svg"
         }
       ]
     },
@@ -448,42 +407,6 @@
       ]
     },
     {
-      "name": "ww-sourmash",
-      "private": false,
-      "fork": false,
-      "description": "Self-contained WDL workflow that uses Sourmash to perform similarity searches between sequence files.",
-      "html_url": "https://github.com/getwilds/ww-sourmash",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": [
-        {
-          "href": "https://getwilds.org/badges/#experimental",
-          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/experimental.svg"
-        }
-      ]
-    },
-    {
-      "name": "ww-shapemapper",
-      "private": false,
-      "fork": false,
-      "description": "Self-contained WDL workflow that uses Shapemapper",
-      "html_url": "https://github.com/getwilds/ww-shapemapper",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": [
-        {
-          "href": "https://getwilds.org/badges/#experimental",
-          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/experimental.svg"
-        }
-      ]
-    },
-    {
       "name": "ww-saturation",
       "private": false,
       "fork": false,
@@ -491,7 +414,88 @@
       "html_url": "https://github.com/getwilds/ww-saturation",
       "topics": [],
       "badges": []
+    },
+    {
+      "name": "wilds-wdl-library",
+      "private": false,
+      "fork": false,
+      "description": "Collection of bioinformatics-related WDL workflow for use in WILDS",
+      "html_url": "https://github.com/getwilds/wilds-wdl-library",
+      "topics": [
+        "bioinformatics",
+        "wdl"
+      ],
+      "badges": [
+        {
+          "href": "https://opensource.org/licenses/MIT",
+          "alt": "License: MIT",
+          "src": "https://img.shields.io/badge/License-MIT-yellow.svg"
+        },
+        {
+          "href": "https://getwilds.org/badges/#prototype",
+          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
+          "src": "https://getwilds.org/badges/badges/prototype.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/wilds-wdl-library",
+          "alt": "WDL Executors",
+          "src": "https://img.shields.io/badge/WDL-Cromwell%20%7C%20miniWDL%20%7C%20Sprocket-blue.svg"
+        },
+        {
+          "href": "https://openwdl.org/",
+          "alt": "WDL",
+          "src": "https://img.shields.io/badge/WDL-1.0-orange.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/modules-testrun.yml",
+          "alt": "Module Tests",
+          "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/modules-testrun.yml/badge.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/vignettes-testrun.yml",
+          "alt": "Vignette Tests",
+          "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/vignettes-testrun.yml/badge.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/linting.yml",
+          "alt": "Linting",
+          "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/linting.yml/badge.svg"
+        }
+      ]
+    },
+    {
+      "name": "sprocket-wdl-tutorial",
+      "private": false,
+      "fork": false,
+      "description": "Tutorial WDL's for 2025 OCDO Summer Hybrid Coworking Day",
+      "html_url": "https://github.com/getwilds/sprocket-wdl-tutorial",
+      "topics": [],
+      "badges": []
+    },
+    {
+      "name": "bs-wilds",
+      "private": false,
+      "fork": false,
+      "description": "Custom WILDS Bootstrap theme",
+      "html_url": "https://github.com/getwilds/bs-wilds",
+      "topics": [],
+      "badges": []
+    },
+    {
+      "name": "wdlparse",
+      "private": false,
+      "fork": false,
+      "description": "Parse WDLs",
+      "html_url": "https://github.com/getwilds/wdlparse",
+      "topics": [],
+      "badges": [
+        {
+          "href": "https://github.com/getwilds/wdlparse/actions/workflows/test.yml",
+          "alt": "Test",
+          "src": "https://github.com/getwilds/wdlparse/actions/workflows/test.yml/badge.svg"
+        }
+      ]
     }
   ],
-  "updated": "2025-12-15T23:36:40.016918+00:00"
+  "updated": "2025-12-16T23:36:16.206980+00:00"
 }
