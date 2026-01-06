@@ -452,9 +452,9 @@
           "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/modules-testrun.yml/badge.svg"
         },
         {
-          "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/vignettes-testrun.yml",
-          "alt": "Vignette Tests",
-          "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/vignettes-testrun.yml/badge.svg"
+          "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/pipelines-testrun.yml",
+          "alt": "Pipeline Tests",
+          "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/pipelines-testrun.yml/badge.svg"
         },
         {
           "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/linting.yml",
@@ -497,5 +497,5 @@
       ]
     }
   ],
-  "updated": "2026-01-05T23:37:04.313772+00:00"
+  "updated": "2026-01-06T23:37:06.853082+00:00"
 }
