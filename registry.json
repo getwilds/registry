@@ -419,7 +419,7 @@
       "name": "wilds-wdl-library",
       "private": false,
       "fork": false,
-      "description": "Collection of bioinformatics-related WDL workflow for use in WILDS",
+      "description": "Collection of bioinformatics-related WDL modules and pipelines",
       "html_url": "https://github.com/getwilds/wilds-wdl-library",
       "topics": [
         "bioinformatics",
@@ -497,5 +497,5 @@
       ]
     }
   ],
-  "updated": "2026-01-08T23:35:50.497490+00:00"
+  "updated": "2026-01-09T23:36:52.977455+00:00"
 }
