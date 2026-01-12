@@ -34,24 +34,6 @@
       ]
     },
     {
-      "name": "ww-cell-ranger",
-      "private": false,
-      "fork": false,
-      "description": "A basic starting point for a cell ranger workflow",
-      "html_url": "https://github.com/getwilds/ww-cell-ranger",
-      "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
-      ],
-      "badges": [
-        {
-          "href": "https://getwilds.org/badges/#experimental",
-          "alt": "Project Status: Experimental \u2013 Useable, some support, not open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/experimental.svg"
-        }
-      ]
-    },
-    {
       "name": "sixtyfour",
       "private": false,
       "fork": false,
@@ -495,7 +477,16 @@
           "src": "https://github.com/getwilds/wdlparse/actions/workflows/test.yml/badge.svg"
         }
       ]
+    },
+    {
+      "name": "setup-uv",
+      "private": false,
+      "fork": true,
+      "description": "Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/",
+      "html_url": "https://github.com/getwilds/setup-uv",
+      "topics": [],
+      "badges": []
     }
   ],
-  "updated": "2026-01-11T23:36:26.557933+00:00"
+  "updated": "2026-01-12T23:35:06.401739+00:00"
 }
