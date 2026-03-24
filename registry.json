@@ -414,9 +414,9 @@
           "src": "https://img.shields.io/badge/License-MIT-yellow.svg"
         },
         {
-          "href": "https://getwilds.org/badges/#prototype",
-          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/prototype.svg"
+          "href": "https://getwilds.org/badges/#stable",
+          "alt": "Project Status: Stable \u2013 Useable, full support, open to feedback, stable API.",
+          "src": "https://getwilds.org/badges/badges/stable.svg"
         },
         {
           "href": "https://github.com/getwilds/wilds-wdl-library",
@@ -488,5 +488,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-03-23T23:44:39.926346+00:00"
+  "updated": "2026-03-24T23:43:44.233336+00:00"
 }
