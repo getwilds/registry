@@ -429,6 +429,11 @@
           "src": "https://img.shields.io/badge/WDL-1.0-orange.svg"
         },
         {
+          "href": "https://github.com/getwilds/wilds-wdl-library/releases",
+          "alt": "GitHub Release",
+          "src": "https://img.shields.io/github/v/release/getwilds/wilds-wdl-library"
+        },
+        {
           "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/modules-testrun.yml",
           "alt": "Module Tests",
           "src": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/modules-testrun.yml/badge.svg"
@@ -488,5 +493,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-03-29T23:45:00.431049+00:00"
+  "updated": "2026-03-30T23:46:04.933275+00:00"
 }
