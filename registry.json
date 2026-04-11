@@ -304,8 +304,7 @@
       "description": "Variant calling WDL workflow using a trio of variant callers and analyzing consensus among them",
       "html_url": "https://github.com/getwilds/ww-vc-trio",
       "topics": [
-        "wdl-workflow",
-        "wilds-wdl"
+        "wdl-workflow"
       ],
       "badges": [
         {
@@ -405,7 +404,8 @@
       "html_url": "https://github.com/getwilds/wilds-wdl-library",
       "topics": [
         "bioinformatics",
-        "wdl"
+        "wdl",
+        "wilds-wdl"
       ],
       "badges": [
         {
@@ -493,5 +493,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-04-10T23:46:34.099265+00:00"
+  "updated": "2026-04-11T23:46:23.055138+00:00"
 }
