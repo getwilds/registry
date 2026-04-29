@@ -424,14 +424,14 @@
           "src": "https://img.shields.io/badge/WDL-Cromwell%20%7C%20miniWDL%20%7C%20Sprocket-blue.svg"
         },
         {
-          "href": "https://openwdl.org/",
-          "alt": "WDL",
-          "src": "https://img.shields.io/badge/WDL-1.0-orange.svg"
-        },
-        {
           "href": "https://github.com/getwilds/wilds-wdl-library/releases",
           "alt": "GitHub Release",
           "src": "https://img.shields.io/github/v/release/getwilds/wilds-wdl-library"
+        },
+        {
+          "href": "https://doi.org/10.5281/zenodo.19339693",
+          "alt": "DOI",
+          "src": "https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19339693-blue"
         },
         {
           "href": "https://github.com/getwilds/wilds-wdl-library/actions/workflows/modules-testrun.yml",
@@ -493,5 +493,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-04-28T23:49:44.829650+00:00"
+  "updated": "2026-04-29T23:49:39.682728+00:00"
 }
