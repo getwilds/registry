@@ -484,14 +484,14 @@
       ]
     },
     {
-      "name": "setup-uv",
+      "name": "cbioformatter",
       "private": false,
-      "fork": true,
-      "description": "Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/",
-      "html_url": "https://github.com/getwilds/setup-uv",
+      "fork": false,
+      "description": "cBioPortal Study Formatting Python Package",
+      "html_url": "https://github.com/getwilds/cbioformatter",
       "topics": [],
       "badges": []
     }
   ],
-  "updated": "2026-06-21T23:56:37.315405+00:00"
+  "updated": "2026-06-22T23:55:02.172322+00:00"
 }
