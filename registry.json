@@ -219,7 +219,18 @@
         "utilities",
         "wilds-r"
       ],
-      "badges": []
+      "badges": [
+        {
+          "href": "https://getwilds.github.io/badges/#concept",
+          "alt": "Project Status: Concept \u2013 Not useable, no support, not open to feedback, unstable API.",
+          "src": "https://getwilds.github.io/badges/badges/concept.svg"
+        },
+        {
+          "href": "https://github.com/getwilds/bs/actions/workflows/R-CMD-check.yaml",
+          "alt": "R-CMD-check",
+          "src": "https://github.com/getwilds/bs/actions/workflows/R-CMD-check.yaml/badge.svg"
+        }
+      ]
     },
     {
       "name": "wilds-docker-library",
@@ -482,5 +493,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-07-12T01:06:24.912458+00:00"
+  "updated": "2026-07-13T01:06:18.068005+00:00"
 }
