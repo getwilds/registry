@@ -252,6 +252,11 @@
           "href": "https://opensource.org/licenses/MIT",
           "alt": "License: MIT",
           "src": "https://img.shields.io/badge/License-MIT-yellow.svg"
+        },
+        {
+          "href": "https://doi.org/10.5281/zenodo.21383372",
+          "alt": "DOI",
+          "src": "https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21383372-blue"
         }
       ]
     },
@@ -493,5 +498,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-07-15T00:52:10.684416+00:00"
+  "updated": "2026-07-16T00:56:56.288557+00:00"
 }
