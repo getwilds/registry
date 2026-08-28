@@ -49,9 +49,9 @@
       ],
       "badges": [
         {
-          "href": "https://getwilds.org/badges/#prototype",
-          "alt": "Project Status: Prototype \u2013 Useable, some support, open to feedback, unstable API.",
-          "src": "https://getwilds.org/badges/badges/prototype.svg"
+          "href": "https://getwilds.org/badges/#stable",
+          "alt": "Project Status: Stable \u2013 Useable, full support, open to feedback, stable API.",
+          "src": "https://getwilds.org/badges/badges/stable.svg"
         },
         {
           "href": "https://github.com/getwilds/sixtyfour/actions/workflows/R-CMD-check.yaml",
@@ -62,6 +62,16 @@
           "href": "https://app.codecov.io/gh/getwilds/sixtyfour",
           "alt": "codecov",
           "src": "https://codecov.io/gh/getwilds/sixtyfour/branch/main/graph/badge.svg"
+        },
+        {
+          "href": "https://cran.r-project.org/package=sixtyfour",
+          "alt": "cran version",
+          "src": "https://www.r-pkg.org/badges/version/sixtyfour"
+        },
+        {
+          "href": "https://CRAN.R-project.org/package=sixtyfour",
+          "alt": "cran checks",
+          "src": "https://badges.cranchecks.info/worst/sixtyfour.svg"
         }
       ]
     },
@@ -498,5 +508,5 @@
       "badges": []
     }
   ],
-  "updated": "2026-08-27T00:44:22.611203+00:00"
+  "updated": "2026-08-28T02:10:58.023944+00:00"
 }
